@@ -8,6 +8,12 @@ Welcome to ai-research's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: 数学
+
+   math/advanced_math.md
+
+.. toctree::
+   :maxdepth: 2
    :caption: Transformer平台
 
    trm/index.md
