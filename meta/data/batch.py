@@ -1,3 +1,5 @@
+import numpy as np
+
 class Batch:
     """The internal data structure in Tianshou.
     
