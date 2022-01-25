@@ -35,6 +35,13 @@ Welcome to ai-research's documentation!
    :caption: 金融模拟平台
 
    fin/index.md
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: API Docs
+
+   api/meta.data
+   
 
 Indices and tables
 ==================
