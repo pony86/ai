@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome ai
 
 You can use the [editor on GitHub](https://github.com/pony86/ai/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
