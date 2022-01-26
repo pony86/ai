@@ -46,7 +46,13 @@ Welcome to ai-research's documentation!
    :maxdepth: 2
    :caption: 金融模拟平台
 
-   fin/index.md
+   fin/index.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 虚拟人平台
+
+   vp/index.rst
    
 .. toctree::
    :maxdepth: 1
