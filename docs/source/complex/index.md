@@ -4,7 +4,7 @@
 
 ## 数学定义
 
-$$\G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$$
+$$G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$$
 
 $$\theta^*=\arg\max_\theta \mathbb{E}_{\pi_\theta}[G_t]$$
 
@@ -17,8 +17,8 @@ $$\theta^*=\arg\max_\theta \mathbb{E}_{\pi_\theta}[G_t]$$
 
 |  模型名   | 原描述  | 能量模型描述 |
 |  ----  | ----  | ----|
-| Ising模型  | $\G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ | $\G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ |
-| 反应-扩散模型  | $\G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ | $\G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ |
+| Ising模型  | $G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ | $G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ |
+| 反应-扩散模型  | $G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ | $G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i$ |
 
 ## 能量模型与个体信息论
 
