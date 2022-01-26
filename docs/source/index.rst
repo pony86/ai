@@ -14,31 +14,31 @@ Welcome to ai-research's documentation!
    :maxdepth: 2
    :caption: 数学
 
-   math/advanced_math.md
+   math/advanced_math.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Transformer平台
 
-   trm/index.md
+   trm/index.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: 强化学习平台:
 
-   rl/index.md
+   rl/index.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: 图神经网络平台
 
-   gnn/index.md
+   gnn/index.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: 复杂系统平台
 
-   complex/index.md
+   complex/index.rst
 
 .. toctree::
    :maxdepth: 2
