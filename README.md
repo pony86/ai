@@ -1,7 +1,15 @@
 ## Welcome to ai-research
 
-ai-research渐进完成多平台（Transformer平台、强化学习平台、图神经网络平台、复杂系统平台、金融模拟平台）相关研究与建设。
+ai-research渐进完成理论，多平台（Transformer平台、强化学习平台、图神经网络平台、复杂系统平台、金融模拟平台）相关研究与建设。
 
+## 理论
+### 数学
+
+### 复杂系统
+
+### AI理论
+
+## 多平台
 ### Transformer平台
 
 研究Tranformer的各种变种及其应用。
@@ -22,6 +30,7 @@ ai-research渐进完成多平台（Transformer平台、强化学习平台、图�
 
 研究金融模拟的各种变种及其应用。
 
-### 文档
+## 文档
 
 [中文文档](https://pony86-ai.readthedocs.io/)
+[blog/news](https://pony86.github.io/)
