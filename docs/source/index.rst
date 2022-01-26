@@ -14,7 +14,7 @@ Welcome to ai-research's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 复杂系统平台
+   :caption: 复杂系统
 
    complex/index.rst
 
