@@ -1,4 +1,5 @@
 import numpy as np
+from typing import Any, Dict, Iterable, Iterator, List, Optional, Sequence, Union
 
 class Batch:
     """The internal data structure in Tianshou.
@@ -8,7 +9,7 @@ class Batch:
     batch themselves. It is designed to make it extremely easily to access, manipulate
     and set partial view of the heterogeneous data conveniently.
     
-    For a detailed description, please refer to :ref:`batch_concept`.
+    For a detailed description.
     """
 
     def __init__(
