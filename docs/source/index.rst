@@ -6,10 +6,6 @@
 Welcome to ai-research's documentation!
 =======================================
 
-.. math:: G_t=\sum_{i=t}^\infty \gamma^{i-t}r_i
-
-.. math:: \theta^*=\arg\max_\theta \mathbb{E}_{\pi_\theta}[G_t]
-
 .. toctree::
    :maxdepth: 2
    :caption: 数学
