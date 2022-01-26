@@ -14,6 +14,18 @@ Welcome to ai-research's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: 复杂系统平台
+
+   complex/index.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: AI理论
+
+   ai/index.rst
+
+.. toctree::
+   :maxdepth: 2
    :caption: Transformer平台
 
    trm/index.rst
@@ -29,12 +41,6 @@ Welcome to ai-research's documentation!
    :caption: 图神经网络平台
 
    gnn/index.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 复杂系统平台
-
-   complex/index.rst
 
 .. toctree::
    :maxdepth: 2
